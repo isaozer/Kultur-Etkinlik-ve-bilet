@@ -19,7 +19,7 @@ Bu proje, kültürel etkinlikler için geliştirilen bir **masaüstü bilet sat�
 ![Giriş Ekranı](https://resmim.net/cdn/2025/05/04/NPD0Gh.png)
 
 ### 📝 Kayıt Olma
-![Kayıt Olma](https://i.hizliresim.com/5mz0je8.png)
+![Kayıt Olma](https://i.hizliresim.com/5mz0je8.jpg)
 
 ### 👤 Hesabım
 ![Hesabım](https://i.hizliresim.com/f067tju.png)
