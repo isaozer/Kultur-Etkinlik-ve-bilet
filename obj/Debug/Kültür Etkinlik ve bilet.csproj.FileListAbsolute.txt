@@ -1,0 +1,14 @@
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\bin\Debug\Kültür Etkinlik ve bilet.exe.config
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\bin\Debug\Kültür Etkinlik ve bilet.exe
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\bin\Debug\Kültür Etkinlik ve bilet.pdb
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür Etkinlik ve bilet.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür_Etkinlik_ve_bilet.b.resources
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür_Etkinlik_ve_bilet.Properties.Resources.resources
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür Etkinlik ve bilet.csproj.GenerateResource.cache
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür Etkinlik ve bilet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\K_lt_r E.22AE18BF.Up2Date
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür Etkinlik ve bilet.exe
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür Etkinlik ve bilet.pdb
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür_Etkinlik_ve_bilet.Kayitol.resources
+C:\Users\ASUS TUF F15\Desktop\Kültür Etkinlik ve bilet\Kültür Etkinlik ve bilet\obj\Debug\Kültür_Etkinlik_ve_bilet.MusteriGiris.resources
