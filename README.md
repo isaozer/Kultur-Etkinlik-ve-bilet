@@ -16,7 +16,7 @@ Bu proje, kültürel etkinlikler için geliştirilen bir **masaüstü bilet sat�
 ## 📸 Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Giriş Ekranı](https://hizliresim.com/mngsl4u)
+![Giriş Ekranı](https://resmim.net/cdn/2025/05/04/NPD0Gh.png)
 
 ### 📝 Kayıt Olma
 ![Kayıt Olma](https://i.hizliresim.com/5mz0je8.png)
