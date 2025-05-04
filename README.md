@@ -19,25 +19,25 @@ Bu proje, kültürel etkinlikler için geliştirilen bir **masaüstü bilet sat�
 ![Giriş Ekranı](https://resmim.net/cdn/2025/05/04/NPD0Gh.png)
 
 ### 📝 Kayıt Olma
-![Kayıt Olma](https://i.hizliresim.com/5mz0je8.jpg)
+![Kayıt Olma](https://resmim.net/cdn/2025/05/04/NPDQdc.png)
 
 ### 👤 Hesabım
-![Hesabım](https://i.hizliresim.com/f067tju.png)
+![Hesabım](https://resmim.net/cdn/2025/05/04/NPDhXn.png)
 
 ### 📅 Etkinlik Listesi
-![Etkinlik Listesi](https://i.hizliresim.com/mm51l61.png)
+![Etkinlik Listesi](https://resmim.net/cdn/2025/05/04/NPDAyy.png)
 
 ### 🛒 Bilet Satın Alma
-![Bilet Satın Alma](https://i.hizliresim.com/5iomw1a.png)
+![Bilet Satın Alma](https://resmim.net/cdn/2025/05/04/NPDPKb.png)
 
 ### 🎟️ Alınan Biletler
-![Alınan Biletler](https://i.hizliresim.com/fpm53uo.png)
+![Alınan Biletler](https://resmim.net/cdn/2025/05/04/NPD9z6.png)
 
 ### 🚪 Çıkış Yapma
-![Çıkış](https://i.hizliresim.com/ci79wj7.png)
+![Çıkış](https://resmim.net/cdn/2025/05/04/NPDUjk.png)
 
 ### 🗃️ Veritabanı ve Tablolar
-![Veritabanı](https://i.hizliresim.com/chdzfqk.png)
+![Veritabanı](https://resmim.net/cdn/2025/05/04/NPDzJi.png)
 
 ---
 
